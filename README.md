@@ -25,3 +25,7 @@ for (var i = 0; i < inwardsRules.length; i++) {
 
 ## For IOS
 - [inwards.conf](https://github.com/GeekEast/gfwlist/blob/master/inwards.conf)
+
+## Pin
+- By default, any domain is `not` connected by proxy.
+- Custom only proxy on `unapproached` domain.
