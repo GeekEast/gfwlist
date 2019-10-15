@@ -1,5 +1,5 @@
 ## GFW settings
-- Don't modify user-rule in the interface unless you want to set it back to default
+- Don't modify `user-rule` in the interface unless you want to set it back to **default**
 
 ### Step 1: open `gfwlist.js`
 ```sh
