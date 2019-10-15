@@ -22,3 +22,6 @@ for (var i = 0; i < inwardsRules.length; i++) {
 // some code
 ```
 ### Step 3: Reboot shadowsocks
+
+## For IOS
+- [inwards.conf](https://github.com/GeekEast/gfwlist/blob/master/inwards.conf)
