@@ -28,4 +28,4 @@ for (var i = 0; i < inwardsRules.length; i++) {
 
 ## Pin
 - By default, any domain is `not` connected by proxy.
-- Custom only proxy on `unapproached` domain.
+- Custom only proxy on `inapproachable` domain.
